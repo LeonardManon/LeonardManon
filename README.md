@@ -31,9 +31,3 @@ Migration de CMS (Kontent → Payload 3.0), création de modules et développeme
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/manon-leonard-dev)
 - 📧 manon.leonard.dev@gmail.com
-* Comprendre le fonctionnement d’une API GraphQL
-
-## Documenter le déploiement d’une application dynamique web et web mobile
-*  Connaître les bonnes pratiques de Docker
-* Mettre en place une automatisation avec GitHub Actions
-* Connaître différents moyens de publier une application Web
