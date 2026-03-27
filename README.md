@@ -2,7 +2,7 @@
 
 Développeuse front-end basée à Anglet, je travaille au quotidien sur des interfaces web soignées et intuitives, au sein d'environnements SaaS.
 
-Curieuse et autonome, j'aime que ce que je construis ait du sens — pour les utilisateurs comme pour les équipes non techniques.
+Curieuse et autonome, j'aime que ce que je construis ait du sens pour les utilisateurs comme pour les équipes non techniques.
 
 ---
 
