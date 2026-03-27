@@ -31,9 +31,6 @@ Migration de CMS (Kontent → Payload 3.0), création de modules et développeme
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/manon-leonard-dev)
 - 📧 manon.leonard.dev@gmail.com
-*  Connaître et savoir utiliser les outils de conteneurisation
-* Automatiser les tests logiciels
-* Mettre en place un service d’Authorization
 * Comprendre le fonctionnement d’une API GraphQL
 
 ## Documenter le déploiement d’une application dynamique web et web mobile
